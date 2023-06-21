@@ -159,16 +159,16 @@ export type RDSTypeValue =
   'type-text-bold-1-weight';
 
 export type RDSColorValue =
-  'color-primary-1' |
-  'color-primary-2' |
-  'color-primary-3' |
-  'color-primary-4' |
-  'color-primary-5' |
-  'color-primary' |
-  'color-primary-6' |
-  'color-primary-7' |
-  'color-primary-8' |
-  'color-primary-9' |
+  'color-primary-10' |
+  'color-primary-20' |
+  'color-primary-30' |
+  'color-primary-40' |
+  'color-primary-50' |
+  'color-primary-40195' |
+  'color-primary-60' |
+  'color-primary-70' |
+  'color-primary-80' |
+  'color-primary-90' |
   'color-grey-0' |
   'color-grey-1' |
   'color-grey-2' |
