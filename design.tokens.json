@@ -418,13 +418,13 @@
             "dsys.level": "token",
             "dsys.name": "text-10",
             "dsys.index": 0,
-            "dsys.styleId": "S:49bcc6ecc34d479dfbd35755ead53ce0feec8f45,"
+            "dsys.styleId": "S:198ee1dad7caa7f460d3778deb22a70faff70c1a,"
           },
           "$value": {
-            "fontFamily": "Open Sans",
+            "fontFamily": "IBM Plex Sans",
             "fontStyle": "normal",
             "figmaFontObj": {
-              "family": "Open Sans",
+              "family": "IBM Plex Sans",
               "style": "Regular"
             },
             "fontWeight": 400,
@@ -449,7 +449,7 @@
             "dsys.level": "token",
             "dsys.name": "text-9",
             "dsys.index": 1,
-            "dsys.styleId": "S:bab3a48e35d8f5735bd66118d8650fdad902df0a,"
+            "dsys.styleId": "S:f821c28db57fd7564c6d1abd8470a901c7411068,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -480,7 +480,7 @@
             "dsys.level": "token",
             "dsys.name": "text-8",
             "dsys.index": 2,
-            "dsys.styleId": "S:e76bebb8ae1cdfbe384a637b034246d3b5c96cc1,"
+            "dsys.styleId": "S:049e05d1938c45e9391ac990c6d6d722087e5d3b,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -511,7 +511,7 @@
             "dsys.level": "token",
             "dsys.name": "text-7",
             "dsys.index": 3,
-            "dsys.styleId": "S:352878dfd130ee9d46b0e7b46c1a1dc3cb819471,"
+            "dsys.styleId": "S:6e4fd7ff08ba0ac069d27094a87a397fdee79e1a,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -542,7 +542,7 @@
             "dsys.level": "token",
             "dsys.name": "text-6",
             "dsys.index": 4,
-            "dsys.styleId": "S:173b9b4785a899681392aeaf548dc6a2ea57026c,"
+            "dsys.styleId": "S:8178af7355c6b3698a7b3d4f2a05f2a29a3b56a6,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -573,7 +573,7 @@
             "dsys.level": "token",
             "dsys.name": "text-5",
             "dsys.index": 5,
-            "dsys.styleId": "S:69a5b78e841f1b56bd250e52d5f868df57532f89,"
+            "dsys.styleId": "S:d30f433fd16b6017d1888f9e4280afb75e90263c,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -604,7 +604,7 @@
             "dsys.level": "token",
             "dsys.name": "text",
             "dsys.index": 6,
-            "dsys.styleId": "S:e9a67ed6e465b4ceb44e2c5634c8b40464ab4fad,"
+            "dsys.styleId": "S:23475956318aacd44b925836f62543deb73fb599,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -635,7 +635,7 @@
             "dsys.level": "token",
             "dsys.name": "text-4",
             "dsys.index": 7,
-            "dsys.styleId": "S:fb67f2d2be34f6e67242ffdfb427a8e286af497d,"
+            "dsys.styleId": "S:7909da076025ab349b6132c370c7992474e497fe,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -666,7 +666,7 @@
             "dsys.level": "token",
             "dsys.name": "text-3",
             "dsys.index": 8,
-            "dsys.styleId": "S:eaebdb52d0c3848761e1187f3e7331afb951f80b,"
+            "dsys.styleId": "S:8bccd058c38649a7ab8c3eed90d695e117574a78,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -697,7 +697,7 @@
             "dsys.level": "token",
             "dsys.name": "text-2",
             "dsys.index": 9,
-            "dsys.styleId": "S:4f6d97d9256e2d248e9b1946f9a888778ab37e2d,"
+            "dsys.styleId": "S:e49b03e2ddb6107ae080b9cb0aaffdf9877d316a,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -728,7 +728,7 @@
             "dsys.level": "token",
             "dsys.name": "text-1",
             "dsys.index": 10,
-            "dsys.styleId": "S:8f176c8e76ca92b1566deb6e39edaea18ef27a6c,"
+            "dsys.styleId": "S:831256833db649b4c35336eecfa0da0208ae2353,"
           },
           "$value": {
             "fontFamily": "Open Sans",
@@ -1121,12 +1121,64 @@
           "dsys.nodeId": "1:1842"
         },
         "$description": "Primary color tokens",
-        "Primary-1": {
+        "Primary-10": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "Primary-1",
+            "dsys.name": "Primary-10",
             "dsys.index": 0,
-            "dsys.styleId": "S:a69d6cc77c4c67872bd3c3b6b61e393c21ea7ff2,"
+            "dsys.styleId": "S:e7d5194d1a63a584295b7b600600fa9705a2cf74,"
+          },
+          "$value": {
+            "hex": "#5c0300",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-20": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-20",
+            "dsys.index": 1,
+            "dsys.styleId": "S:5a1a49ae1d5ee5ecb033c96401c335c76a3df6a4,"
+          },
+          "$value": {
+            "hex": "#800a05",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-30": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-30",
+            "dsys.index": 2,
+            "dsys.styleId": "S:6d53343eff921b0a649ca51ae7acecd73a71dce5,"
+          },
+          "$value": {
+            "hex": "#a4130e",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-40": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-40",
+            "dsys.index": 3,
+            "dsys.styleId": "S:197ff2a0bb76b23575006277c8fd5b4dac88e37d,"
+          },
+          "$value": {
+            "hex": "#c91f1a",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-50": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-50",
+            "dsys.index": 4,
+            "dsys.styleId": "S:3f28d775f11714de6aa5b3da23657379d53c3b01,"
           },
           "$value": {
             "hex": "#ee3129",
@@ -1134,119 +1186,67 @@
           },
           "$type": "color"
         },
-        "Primary-2": {
+        "Primary-40195": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "Primary-2",
-            "dsys.index": 1,
-            "dsys.styleId": "S:ccff530f7d2aadf88a34baf05f5e7b7f01a684f2,"
-          },
-          "$value": {
-            "hex": "#430e8c",
-            "alpha": 1
-          },
-          "$type": "color"
-        },
-        "Primary-3": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Primary-3",
-            "dsys.index": 2,
-            "dsys.styleId": "S:e24d2625e6e58fd8148b70b803129bad43448f3f,"
-          },
-          "$value": {
-            "hex": "#5d21b0",
-            "alpha": 1
-          },
-          "$type": "color"
-        },
-        "Primary-4": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Primary-4",
-            "dsys.index": 3,
-            "dsys.styleId": "S:acd25f78bbee44b06d9e0b480ffbadd65ef9ec0c,"
-          },
-          "$value": {
-            "hex": "#7639cc",
-            "alpha": 1
-          },
-          "$type": "color"
-        },
-        "Primary-5": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Primary-5",
-            "dsys.index": 4,
-            "dsys.styleId": "S:e498803472eea9fd8351a7958053864d69e37df9,"
-          },
-          "$value": {
-            "hex": "#8f55e0",
-            "alpha": 1
-          },
-          "$type": "color"
-        },
-        "Primary": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Primary",
+            "dsys.name": "Primary-40195",
             "dsys.index": 5,
-            "dsys.styleId": "S:e7646982f4e49cafeb3f9515be2dd3b1d59705fe,"
+            "dsys.styleId": "S:60ce26c5aec78533baa091e21889384d07d0a18f,"
           },
           "$value": {
-            "hex": "#8f55e0",
+            "hex": "#ee3129",
             "alpha": 1
           },
           "$type": "color"
         },
-        "Primary-6": {
+        "Primary-60": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "Primary-6",
+            "dsys.name": "Primary-60",
             "dsys.index": 6,
-            "dsys.styleId": "S:bd263d84d142fc234702196dda7da0abb6db5918,"
+            "dsys.styleId": "S:f13cfe1445683658d36c1fb672347cafd1d3807e,"
           },
           "$value": {
-            "hex": "#a572ed",
+            "hex": "#f2554f",
             "alpha": 1
           },
           "$type": "color"
         },
-        "Primary-7": {
+        "Primary-70": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "Primary-7",
+            "dsys.name": "Primary-70",
             "dsys.index": 7,
-            "dsys.styleId": "S:be0e145210c36f54b49a0e46d6e661573f5b87cb,"
+            "dsys.styleId": "S:bf5b906fac583d784890d544f1f07f04d6af90e4,"
           },
           "$value": {
-            "hex": "#bc92f7",
+            "hex": "#f67c77",
             "alpha": 1
           },
           "$type": "color"
         },
-        "Primary-8": {
+        "Primary-80": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "Primary-8",
+            "dsys.name": "Primary-80",
             "dsys.index": 8,
-            "dsys.styleId": "S:693064d0c1fb4d88884a7bb5f53ad63d1df7bbdf,"
+            "dsys.styleId": "S:8f652c9cdf23386967b2f4033bc7642c7107d517,"
           },
           "$value": {
-            "hex": "#cdacfc",
+            "hex": "#fba4a1",
             "alpha": 1
           },
           "$type": "color"
         },
-        "Primary-9": {
+        "Primary-90": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "Primary-9",
+            "dsys.name": "Primary-90",
             "dsys.index": 9,
-            "dsys.styleId": "S:21e15822c3633129d339fa12b762001d3112ad53,"
+            "dsys.styleId": "S:49897c6697aae44ba2e4f22648c3967709fc8890,"
           },
           "$value": {
-            "hex": "#e1ccff",
+            "hex": "#ffcecc",
             "alpha": 1
           },
           "$type": "color"
