@@ -1,41 +1,41 @@
-@mixin background-color-primary-1 {
-  --background-color: var( --rds-color-primary-1 );
+@mixin background-color-primary-10 {
+  --background-color: var( --rds-color-primary-10 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-2 {
-  --background-color: var( --rds-color-primary-2 );
+@mixin background-color-primary-20 {
+  --background-color: var( --rds-color-primary-20 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-3 {
-  --background-color: var( --rds-color-primary-3 );
+@mixin background-color-primary-30 {
+  --background-color: var( --rds-color-primary-30 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-4 {
-  --background-color: var( --rds-color-primary-4 );
+@mixin background-color-primary-40 {
+  --background-color: var( --rds-color-primary-40 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-5 {
-  --background-color: var( --rds-color-primary-5 );
+@mixin background-color-primary-50 {
+  --background-color: var( --rds-color-primary-50 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary {
-  --background-color: var( --rds-color-primary );
+@mixin background-color-primary-40195 {
+  --background-color: var( --rds-color-primary-40195 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-6 {
-  --background-color: var( --rds-color-primary-6 );
+@mixin background-color-primary-60 {
+  --background-color: var( --rds-color-primary-60 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-7 {
-  --background-color: var( --rds-color-primary-7 );
+@mixin background-color-primary-70 {
+  --background-color: var( --rds-color-primary-70 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-8 {
-  --background-color: var( --rds-color-primary-8 );
+@mixin background-color-primary-80 {
+  --background-color: var( --rds-color-primary-80 );
   background-color: var( --background-color );
 }
-@mixin background-color-primary-9 {
-  --background-color: var( --rds-color-primary-9 );
+@mixin background-color-primary-90 {
+  --background-color: var( --rds-color-primary-90 );
   background-color: var( --background-color );
 }
 @mixin background-color-grey-0 {
@@ -130,54 +130,54 @@
   --background-color: var( --rds-color-secondary-9 );
   background-color: var( --background-color );
 }
-@mixin background-color-hover-primary-1 {
+@mixin background-color-hover-primary-10 {
   &:hover {
-    background-color: var( --rds-color-primary-1 );
+    background-color: var( --rds-color-primary-10 );
   }
 }
-@mixin background-color-hover-primary-2 {
+@mixin background-color-hover-primary-20 {
   &:hover {
-    background-color: var( --rds-color-primary-2 );
+    background-color: var( --rds-color-primary-20 );
   }
 }
-@mixin background-color-hover-primary-3 {
+@mixin background-color-hover-primary-30 {
   &:hover {
-    background-color: var( --rds-color-primary-3 );
+    background-color: var( --rds-color-primary-30 );
   }
 }
-@mixin background-color-hover-primary-4 {
+@mixin background-color-hover-primary-40 {
   &:hover {
-    background-color: var( --rds-color-primary-4 );
+    background-color: var( --rds-color-primary-40 );
   }
 }
-@mixin background-color-hover-primary-5 {
+@mixin background-color-hover-primary-50 {
   &:hover {
-    background-color: var( --rds-color-primary-5 );
+    background-color: var( --rds-color-primary-50 );
   }
 }
-@mixin background-color-hover-primary {
+@mixin background-color-hover-primary-40195 {
   &:hover {
-    background-color: var( --rds-color-primary );
+    background-color: var( --rds-color-primary-40195 );
   }
 }
-@mixin background-color-hover-primary-6 {
+@mixin background-color-hover-primary-60 {
   &:hover {
-    background-color: var( --rds-color-primary-6 );
+    background-color: var( --rds-color-primary-60 );
   }
 }
-@mixin background-color-hover-primary-7 {
+@mixin background-color-hover-primary-70 {
   &:hover {
-    background-color: var( --rds-color-primary-7 );
+    background-color: var( --rds-color-primary-70 );
   }
 }
-@mixin background-color-hover-primary-8 {
+@mixin background-color-hover-primary-80 {
   &:hover {
-    background-color: var( --rds-color-primary-8 );
+    background-color: var( --rds-color-primary-80 );
   }
 }
-@mixin background-color-hover-primary-9 {
+@mixin background-color-hover-primary-90 {
   &:hover {
-    background-color: var( --rds-color-primary-9 );
+    background-color: var( --rds-color-primary-90 );
   }
 }
 @mixin background-color-hover-grey-0 {
@@ -295,44 +295,44 @@
     background-color: var( --rds-color-secondary-9 );
   }
 }
-@mixin color-primary-1 {
-  --color: var( --rds-color-primary-1 );
+@mixin color-primary-10 {
+  --color: var( --rds-color-primary-10 );
   color: var( --color );
 }
-@mixin color-primary-2 {
-  --color: var( --rds-color-primary-2 );
+@mixin color-primary-20 {
+  --color: var( --rds-color-primary-20 );
   color: var( --color );
 }
-@mixin color-primary-3 {
-  --color: var( --rds-color-primary-3 );
+@mixin color-primary-30 {
+  --color: var( --rds-color-primary-30 );
   color: var( --color );
 }
-@mixin color-primary-4 {
-  --color: var( --rds-color-primary-4 );
+@mixin color-primary-40 {
+  --color: var( --rds-color-primary-40 );
   color: var( --color );
 }
-@mixin color-primary-5 {
-  --color: var( --rds-color-primary-5 );
+@mixin color-primary-50 {
+  --color: var( --rds-color-primary-50 );
   color: var( --color );
 }
-@mixin color-primary {
-  --color: var( --rds-color-primary );
+@mixin color-primary-40195 {
+  --color: var( --rds-color-primary-40195 );
   color: var( --color );
 }
-@mixin color-primary-6 {
-  --color: var( --rds-color-primary-6 );
+@mixin color-primary-60 {
+  --color: var( --rds-color-primary-60 );
   color: var( --color );
 }
-@mixin color-primary-7 {
-  --color: var( --rds-color-primary-7 );
+@mixin color-primary-70 {
+  --color: var( --rds-color-primary-70 );
   color: var( --color );
 }
-@mixin color-primary-8 {
-  --color: var( --rds-color-primary-8 );
+@mixin color-primary-80 {
+  --color: var( --rds-color-primary-80 );
   color: var( --color );
 }
-@mixin color-primary-9 {
-  --color: var( --rds-color-primary-9 );
+@mixin color-primary-90 {
+  --color: var( --rds-color-primary-90 );
   color: var( --color );
 }
 @mixin color-grey-0 {
@@ -427,54 +427,54 @@
   --color: var( --rds-color-secondary-9 );
   color: var( --color );
 }
-@mixin color-hover-primary-1 {
+@mixin color-hover-primary-10 {
   &:hover {
-    color: var( --rds-color-primary-1 );
+    color: var( --rds-color-primary-10 );
   }
 }
-@mixin color-hover-primary-2 {
+@mixin color-hover-primary-20 {
   &:hover {
-    color: var( --rds-color-primary-2 );
+    color: var( --rds-color-primary-20 );
   }
 }
-@mixin color-hover-primary-3 {
+@mixin color-hover-primary-30 {
   &:hover {
-    color: var( --rds-color-primary-3 );
+    color: var( --rds-color-primary-30 );
   }
 }
-@mixin color-hover-primary-4 {
+@mixin color-hover-primary-40 {
   &:hover {
-    color: var( --rds-color-primary-4 );
+    color: var( --rds-color-primary-40 );
   }
 }
-@mixin color-hover-primary-5 {
+@mixin color-hover-primary-50 {
   &:hover {
-    color: var( --rds-color-primary-5 );
+    color: var( --rds-color-primary-50 );
   }
 }
-@mixin color-hover-primary {
+@mixin color-hover-primary-40195 {
   &:hover {
-    color: var( --rds-color-primary );
+    color: var( --rds-color-primary-40195 );
   }
 }
-@mixin color-hover-primary-6 {
+@mixin color-hover-primary-60 {
   &:hover {
-    color: var( --rds-color-primary-6 );
+    color: var( --rds-color-primary-60 );
   }
 }
-@mixin color-hover-primary-7 {
+@mixin color-hover-primary-70 {
   &:hover {
-    color: var( --rds-color-primary-7 );
+    color: var( --rds-color-primary-70 );
   }
 }
-@mixin color-hover-primary-8 {
+@mixin color-hover-primary-80 {
   &:hover {
-    color: var( --rds-color-primary-8 );
+    color: var( --rds-color-primary-80 );
   }
 }
-@mixin color-hover-primary-9 {
+@mixin color-hover-primary-90 {
   &:hover {
-    color: var( --rds-color-primary-9 );
+    color: var( --rds-color-primary-90 );
   }
 }
 @mixin color-hover-grey-0 {
@@ -592,35 +592,35 @@
     color: var( --rds-color-secondary-9 );
   }
 }
-@mixin border-color-primary-1 {
-  border-color: var( --rds-color-primary-1 );
+@mixin border-color-primary-10 {
+  border-color: var( --rds-color-primary-10 );
 }
-@mixin border-color-primary-2 {
-  border-color: var( --rds-color-primary-2 );
+@mixin border-color-primary-20 {
+  border-color: var( --rds-color-primary-20 );
 }
-@mixin border-color-primary-3 {
-  border-color: var( --rds-color-primary-3 );
+@mixin border-color-primary-30 {
+  border-color: var( --rds-color-primary-30 );
 }
-@mixin border-color-primary-4 {
-  border-color: var( --rds-color-primary-4 );
+@mixin border-color-primary-40 {
+  border-color: var( --rds-color-primary-40 );
 }
-@mixin border-color-primary-5 {
-  border-color: var( --rds-color-primary-5 );
+@mixin border-color-primary-50 {
+  border-color: var( --rds-color-primary-50 );
 }
-@mixin border-color-primary {
-  border-color: var( --rds-color-primary );
+@mixin border-color-primary-40195 {
+  border-color: var( --rds-color-primary-40195 );
 }
-@mixin border-color-primary-6 {
-  border-color: var( --rds-color-primary-6 );
+@mixin border-color-primary-60 {
+  border-color: var( --rds-color-primary-60 );
 }
-@mixin border-color-primary-7 {
-  border-color: var( --rds-color-primary-7 );
+@mixin border-color-primary-70 {
+  border-color: var( --rds-color-primary-70 );
 }
-@mixin border-color-primary-8 {
-  border-color: var( --rds-color-primary-8 );
+@mixin border-color-primary-80 {
+  border-color: var( --rds-color-primary-80 );
 }
-@mixin border-color-primary-9 {
-  border-color: var( --rds-color-primary-9 );
+@mixin border-color-primary-90 {
+  border-color: var( --rds-color-primary-90 );
 }
 @mixin border-color-grey-0 {
   border-color: var( --rds-color-grey-0 );
@@ -691,35 +691,35 @@
 @mixin border-color-secondary-9 {
   border-color: var( --rds-color-secondary-9 );
 }
-@mixin border-primary-1 {
-  border: 1px solid var( --rds-color-primary-1 );
+@mixin border-primary-10 {
+  border: 1px solid var( --rds-color-primary-10 );
 }
-@mixin border-primary-2 {
-  border: 1px solid var( --rds-color-primary-2 );
+@mixin border-primary-20 {
+  border: 1px solid var( --rds-color-primary-20 );
 }
-@mixin border-primary-3 {
-  border: 1px solid var( --rds-color-primary-3 );
+@mixin border-primary-30 {
+  border: 1px solid var( --rds-color-primary-30 );
 }
-@mixin border-primary-4 {
-  border: 1px solid var( --rds-color-primary-4 );
+@mixin border-primary-40 {
+  border: 1px solid var( --rds-color-primary-40 );
 }
-@mixin border-primary-5 {
-  border: 1px solid var( --rds-color-primary-5 );
+@mixin border-primary-50 {
+  border: 1px solid var( --rds-color-primary-50 );
 }
-@mixin border-primary {
-  border: 1px solid var( --rds-color-primary );
+@mixin border-primary-40195 {
+  border: 1px solid var( --rds-color-primary-40195 );
 }
-@mixin border-primary-6 {
-  border: 1px solid var( --rds-color-primary-6 );
+@mixin border-primary-60 {
+  border: 1px solid var( --rds-color-primary-60 );
 }
-@mixin border-primary-7 {
-  border: 1px solid var( --rds-color-primary-7 );
+@mixin border-primary-70 {
+  border: 1px solid var( --rds-color-primary-70 );
 }
-@mixin border-primary-8 {
-  border: 1px solid var( --rds-color-primary-8 );
+@mixin border-primary-80 {
+  border: 1px solid var( --rds-color-primary-80 );
 }
-@mixin border-primary-9 {
-  border: 1px solid var( --rds-color-primary-9 );
+@mixin border-primary-90 {
+  border: 1px solid var( --rds-color-primary-90 );
 }
 @mixin border-grey-0 {
   border: 1px solid var( --rds-color-grey-0 );
@@ -790,35 +790,35 @@
 @mixin border-secondary-9 {
   border: 1px solid var( --rds-color-secondary-9 );
 }
-@mixin border-top-primary-1 {
-  border-top: 1px solid var( --rds-color-primary-1 );
+@mixin border-top-primary-10 {
+  border-top: 1px solid var( --rds-color-primary-10 );
 }
-@mixin border-top-primary-2 {
-  border-top: 1px solid var( --rds-color-primary-2 );
+@mixin border-top-primary-20 {
+  border-top: 1px solid var( --rds-color-primary-20 );
 }
-@mixin border-top-primary-3 {
-  border-top: 1px solid var( --rds-color-primary-3 );
+@mixin border-top-primary-30 {
+  border-top: 1px solid var( --rds-color-primary-30 );
 }
-@mixin border-top-primary-4 {
-  border-top: 1px solid var( --rds-color-primary-4 );
+@mixin border-top-primary-40 {
+  border-top: 1px solid var( --rds-color-primary-40 );
 }
-@mixin border-top-primary-5 {
-  border-top: 1px solid var( --rds-color-primary-5 );
+@mixin border-top-primary-50 {
+  border-top: 1px solid var( --rds-color-primary-50 );
 }
-@mixin border-top-primary {
-  border-top: 1px solid var( --rds-color-primary );
+@mixin border-top-primary-40195 {
+  border-top: 1px solid var( --rds-color-primary-40195 );
 }
-@mixin border-top-primary-6 {
-  border-top: 1px solid var( --rds-color-primary-6 );
+@mixin border-top-primary-60 {
+  border-top: 1px solid var( --rds-color-primary-60 );
 }
-@mixin border-top-primary-7 {
-  border-top: 1px solid var( --rds-color-primary-7 );
+@mixin border-top-primary-70 {
+  border-top: 1px solid var( --rds-color-primary-70 );
 }
-@mixin border-top-primary-8 {
-  border-top: 1px solid var( --rds-color-primary-8 );
+@mixin border-top-primary-80 {
+  border-top: 1px solid var( --rds-color-primary-80 );
 }
-@mixin border-top-primary-9 {
-  border-top: 1px solid var( --rds-color-primary-9 );
+@mixin border-top-primary-90 {
+  border-top: 1px solid var( --rds-color-primary-90 );
 }
 @mixin border-top-grey-0 {
   border-top: 1px solid var( --rds-color-grey-0 );
@@ -889,35 +889,35 @@
 @mixin border-top-secondary-9 {
   border-top: 1px solid var( --rds-color-secondary-9 );
 }
-@mixin border-bottom-primary-1 {
-  border-bottom: 1px solid var( --rds-color-primary-1 );
+@mixin border-bottom-primary-10 {
+  border-bottom: 1px solid var( --rds-color-primary-10 );
 }
-@mixin border-bottom-primary-2 {
-  border-bottom: 1px solid var( --rds-color-primary-2 );
+@mixin border-bottom-primary-20 {
+  border-bottom: 1px solid var( --rds-color-primary-20 );
 }
-@mixin border-bottom-primary-3 {
-  border-bottom: 1px solid var( --rds-color-primary-3 );
+@mixin border-bottom-primary-30 {
+  border-bottom: 1px solid var( --rds-color-primary-30 );
 }
-@mixin border-bottom-primary-4 {
-  border-bottom: 1px solid var( --rds-color-primary-4 );
+@mixin border-bottom-primary-40 {
+  border-bottom: 1px solid var( --rds-color-primary-40 );
 }
-@mixin border-bottom-primary-5 {
-  border-bottom: 1px solid var( --rds-color-primary-5 );
+@mixin border-bottom-primary-50 {
+  border-bottom: 1px solid var( --rds-color-primary-50 );
 }
-@mixin border-bottom-primary {
-  border-bottom: 1px solid var( --rds-color-primary );
+@mixin border-bottom-primary-40195 {
+  border-bottom: 1px solid var( --rds-color-primary-40195 );
 }
-@mixin border-bottom-primary-6 {
-  border-bottom: 1px solid var( --rds-color-primary-6 );
+@mixin border-bottom-primary-60 {
+  border-bottom: 1px solid var( --rds-color-primary-60 );
 }
-@mixin border-bottom-primary-7 {
-  border-bottom: 1px solid var( --rds-color-primary-7 );
+@mixin border-bottom-primary-70 {
+  border-bottom: 1px solid var( --rds-color-primary-70 );
 }
-@mixin border-bottom-primary-8 {
-  border-bottom: 1px solid var( --rds-color-primary-8 );
+@mixin border-bottom-primary-80 {
+  border-bottom: 1px solid var( --rds-color-primary-80 );
 }
-@mixin border-bottom-primary-9 {
-  border-bottom: 1px solid var( --rds-color-primary-9 );
+@mixin border-bottom-primary-90 {
+  border-bottom: 1px solid var( --rds-color-primary-90 );
 }
 @mixin border-bottom-grey-0 {
   border-bottom: 1px solid var( --rds-color-grey-0 );
@@ -988,35 +988,35 @@
 @mixin border-bottom-secondary-9 {
   border-bottom: 1px solid var( --rds-color-secondary-9 );
 }
-@mixin border-left-primary-1 {
-  border-left: 1px solid var( --rds-color-primary-1 );
+@mixin border-left-primary-10 {
+  border-left: 1px solid var( --rds-color-primary-10 );
 }
-@mixin border-left-primary-2 {
-  border-left: 1px solid var( --rds-color-primary-2 );
+@mixin border-left-primary-20 {
+  border-left: 1px solid var( --rds-color-primary-20 );
 }
-@mixin border-left-primary-3 {
-  border-left: 1px solid var( --rds-color-primary-3 );
+@mixin border-left-primary-30 {
+  border-left: 1px solid var( --rds-color-primary-30 );
 }
-@mixin border-left-primary-4 {
-  border-left: 1px solid var( --rds-color-primary-4 );
+@mixin border-left-primary-40 {
+  border-left: 1px solid var( --rds-color-primary-40 );
 }
-@mixin border-left-primary-5 {
-  border-left: 1px solid var( --rds-color-primary-5 );
+@mixin border-left-primary-50 {
+  border-left: 1px solid var( --rds-color-primary-50 );
 }
-@mixin border-left-primary {
-  border-left: 1px solid var( --rds-color-primary );
+@mixin border-left-primary-40195 {
+  border-left: 1px solid var( --rds-color-primary-40195 );
 }
-@mixin border-left-primary-6 {
-  border-left: 1px solid var( --rds-color-primary-6 );
+@mixin border-left-primary-60 {
+  border-left: 1px solid var( --rds-color-primary-60 );
 }
-@mixin border-left-primary-7 {
-  border-left: 1px solid var( --rds-color-primary-7 );
+@mixin border-left-primary-70 {
+  border-left: 1px solid var( --rds-color-primary-70 );
 }
-@mixin border-left-primary-8 {
-  border-left: 1px solid var( --rds-color-primary-8 );
+@mixin border-left-primary-80 {
+  border-left: 1px solid var( --rds-color-primary-80 );
 }
-@mixin border-left-primary-9 {
-  border-left: 1px solid var( --rds-color-primary-9 );
+@mixin border-left-primary-90 {
+  border-left: 1px solid var( --rds-color-primary-90 );
 }
 @mixin border-left-grey-0 {
   border-left: 1px solid var( --rds-color-grey-0 );
@@ -1087,35 +1087,35 @@
 @mixin border-left-secondary-9 {
   border-left: 1px solid var( --rds-color-secondary-9 );
 }
-@mixin border-right-primary-1 {
-  border-right: 1px solid var( --rds-color-primary-1 );
+@mixin border-right-primary-10 {
+  border-right: 1px solid var( --rds-color-primary-10 );
 }
-@mixin border-right-primary-2 {
-  border-right: 1px solid var( --rds-color-primary-2 );
+@mixin border-right-primary-20 {
+  border-right: 1px solid var( --rds-color-primary-20 );
 }
-@mixin border-right-primary-3 {
-  border-right: 1px solid var( --rds-color-primary-3 );
+@mixin border-right-primary-30 {
+  border-right: 1px solid var( --rds-color-primary-30 );
 }
-@mixin border-right-primary-4 {
-  border-right: 1px solid var( --rds-color-primary-4 );
+@mixin border-right-primary-40 {
+  border-right: 1px solid var( --rds-color-primary-40 );
 }
-@mixin border-right-primary-5 {
-  border-right: 1px solid var( --rds-color-primary-5 );
+@mixin border-right-primary-50 {
+  border-right: 1px solid var( --rds-color-primary-50 );
 }
-@mixin border-right-primary {
-  border-right: 1px solid var( --rds-color-primary );
+@mixin border-right-primary-40195 {
+  border-right: 1px solid var( --rds-color-primary-40195 );
 }
-@mixin border-right-primary-6 {
-  border-right: 1px solid var( --rds-color-primary-6 );
+@mixin border-right-primary-60 {
+  border-right: 1px solid var( --rds-color-primary-60 );
 }
-@mixin border-right-primary-7 {
-  border-right: 1px solid var( --rds-color-primary-7 );
+@mixin border-right-primary-70 {
+  border-right: 1px solid var( --rds-color-primary-70 );
 }
-@mixin border-right-primary-8 {
-  border-right: 1px solid var( --rds-color-primary-8 );
+@mixin border-right-primary-80 {
+  border-right: 1px solid var( --rds-color-primary-80 );
 }
-@mixin border-right-primary-9 {
-  border-right: 1px solid var( --rds-color-primary-9 );
+@mixin border-right-primary-90 {
+  border-right: 1px solid var( --rds-color-primary-90 );
 }
 @mixin border-right-grey-0 {
   border-right: 1px solid var( --rds-color-grey-0 );
@@ -1186,63 +1186,63 @@
 @mixin border-right-secondary-9 {
   border-right: 1px solid var( --rds-color-secondary-9 );
 }
-@mixin background-color-sm-primary-1 {
+@mixin background-color-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-1 );
+    --background-color: var( --rds-color-primary-10 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-2 {
+@mixin background-color-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-2 );
+    --background-color: var( --rds-color-primary-20 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-3 {
+@mixin background-color-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-3 );
+    --background-color: var( --rds-color-primary-30 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-4 {
+@mixin background-color-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-4 );
+    --background-color: var( --rds-color-primary-40 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-5 {
+@mixin background-color-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-5 );
+    --background-color: var( --rds-color-primary-50 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary {
+@mixin background-color-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary );
+    --background-color: var( --rds-color-primary-40195 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-6 {
+@mixin background-color-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-6 );
+    --background-color: var( --rds-color-primary-60 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-7 {
+@mixin background-color-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-7 );
+    --background-color: var( --rds-color-primary-70 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-8 {
+@mixin background-color-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-8 );
+    --background-color: var( --rds-color-primary-80 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-sm-primary-9 {
+@mixin background-color-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    --background-color: var( --rds-color-primary-9 );
+    --background-color: var( --rds-color-primary-90 );
     background-color: var( --background-color );
   }
 }
@@ -1384,73 +1384,73 @@
     background-color: var( --background-color );
   }
 }
-@mixin background-color-hover-sm-primary-1 {
+@mixin background-color-hover-sm-primary-10 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-1 );
+      background-color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-2 {
+@mixin background-color-hover-sm-primary-20 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-2 );
+      background-color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-3 {
+@mixin background-color-hover-sm-primary-30 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-3 );
+      background-color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-4 {
+@mixin background-color-hover-sm-primary-40 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-4 );
+      background-color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-5 {
+@mixin background-color-hover-sm-primary-50 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-5 );
+      background-color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin background-color-hover-sm-primary {
+@mixin background-color-hover-sm-primary-40195 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary );
+      background-color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-6 {
+@mixin background-color-hover-sm-primary-60 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-6 );
+      background-color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-7 {
+@mixin background-color-hover-sm-primary-70 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-7 );
+      background-color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-8 {
+@mixin background-color-hover-sm-primary-80 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-8 );
+      background-color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin background-color-hover-sm-primary-9 {
+@mixin background-color-hover-sm-primary-90 {
   @media screen and (min-width: 576px) {
     &:hover {
-      background-color: var( --rds-color-primary-9 );
+      background-color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -1615,63 +1615,63 @@
     }
   }
 }
-@mixin color-sm-primary-1 {
+@mixin color-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-1 );
+    --color: var( --rds-color-primary-10 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-2 {
+@mixin color-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-2 );
+    --color: var( --rds-color-primary-20 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-3 {
+@mixin color-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-3 );
+    --color: var( --rds-color-primary-30 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-4 {
+@mixin color-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-4 );
+    --color: var( --rds-color-primary-40 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-5 {
+@mixin color-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-5 );
+    --color: var( --rds-color-primary-50 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary {
+@mixin color-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary );
+    --color: var( --rds-color-primary-40195 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-6 {
+@mixin color-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-6 );
+    --color: var( --rds-color-primary-60 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-7 {
+@mixin color-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-7 );
+    --color: var( --rds-color-primary-70 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-8 {
+@mixin color-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-8 );
+    --color: var( --rds-color-primary-80 );
     color: var( --color );
   }
 }
-@mixin color-sm-primary-9 {
+@mixin color-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    --color: var( --rds-color-primary-9 );
+    --color: var( --rds-color-primary-90 );
     color: var( --color );
   }
 }
@@ -1813,73 +1813,73 @@
     color: var( --color );
   }
 }
-@mixin color-hover-sm-primary-1 {
+@mixin color-hover-sm-primary-10 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-1 );
+      color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin color-hover-sm-primary-2 {
+@mixin color-hover-sm-primary-20 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-2 );
+      color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin color-hover-sm-primary-3 {
+@mixin color-hover-sm-primary-30 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-3 );
+      color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin color-hover-sm-primary-4 {
+@mixin color-hover-sm-primary-40 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-4 );
+      color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin color-hover-sm-primary-5 {
+@mixin color-hover-sm-primary-50 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-5 );
+      color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin color-hover-sm-primary {
+@mixin color-hover-sm-primary-40195 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary );
+      color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin color-hover-sm-primary-6 {
+@mixin color-hover-sm-primary-60 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-6 );
+      color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin color-hover-sm-primary-7 {
+@mixin color-hover-sm-primary-70 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-7 );
+      color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin color-hover-sm-primary-8 {
+@mixin color-hover-sm-primary-80 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-8 );
+      color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin color-hover-sm-primary-9 {
+@mixin color-hover-sm-primary-90 {
   @media screen and (min-width: 576px) {
     &:hover {
-      color: var( --rds-color-primary-9 );
+      color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -2044,54 +2044,54 @@
     }
   }
 }
-@mixin border-color-sm-primary-1 {
+@mixin border-color-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-1 );
+    border-color: var( --rds-color-primary-10 );
   }
 }
-@mixin border-color-sm-primary-2 {
+@mixin border-color-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-2 );
+    border-color: var( --rds-color-primary-20 );
   }
 }
-@mixin border-color-sm-primary-3 {
+@mixin border-color-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-3 );
+    border-color: var( --rds-color-primary-30 );
   }
 }
-@mixin border-color-sm-primary-4 {
+@mixin border-color-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-4 );
+    border-color: var( --rds-color-primary-40 );
   }
 }
-@mixin border-color-sm-primary-5 {
+@mixin border-color-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-5 );
+    border-color: var( --rds-color-primary-50 );
   }
 }
-@mixin border-color-sm-primary {
+@mixin border-color-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary );
+    border-color: var( --rds-color-primary-40195 );
   }
 }
-@mixin border-color-sm-primary-6 {
+@mixin border-color-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-6 );
+    border-color: var( --rds-color-primary-60 );
   }
 }
-@mixin border-color-sm-primary-7 {
+@mixin border-color-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-7 );
+    border-color: var( --rds-color-primary-70 );
   }
 }
-@mixin border-color-sm-primary-8 {
+@mixin border-color-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-8 );
+    border-color: var( --rds-color-primary-80 );
   }
 }
-@mixin border-color-sm-primary-9 {
+@mixin border-color-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    border-color: var( --rds-color-primary-9 );
+    border-color: var( --rds-color-primary-90 );
   }
 }
 @mixin border-color-sm-grey-0 {
@@ -2209,54 +2209,54 @@
     border-color: var( --rds-color-secondary-9 );
   }
 }
-@mixin border-sm-primary-1 {
+@mixin border-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-1 );
+    border: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-sm-primary-2 {
+@mixin border-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-2 );
+    border: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-sm-primary-3 {
+@mixin border-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-3 );
+    border: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-sm-primary-4 {
+@mixin border-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-4 );
+    border: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-sm-primary-5 {
+@mixin border-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-5 );
+    border: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-sm-primary {
+@mixin border-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary );
+    border: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-sm-primary-6 {
+@mixin border-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-6 );
+    border: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-sm-primary-7 {
+@mixin border-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-7 );
+    border: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-sm-primary-8 {
+@mixin border-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-8 );
+    border: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-sm-primary-9 {
+@mixin border-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    border: 1px solid var( --rds-color-primary-9 );
+    border: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-sm-grey-0 {
@@ -2374,54 +2374,54 @@
     border: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-top-sm-primary-1 {
+@mixin border-top-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-1 );
+    border-top: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-top-sm-primary-2 {
+@mixin border-top-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-2 );
+    border-top: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-top-sm-primary-3 {
+@mixin border-top-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-3 );
+    border-top: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-top-sm-primary-4 {
+@mixin border-top-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-4 );
+    border-top: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-top-sm-primary-5 {
+@mixin border-top-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-5 );
+    border-top: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-top-sm-primary {
+@mixin border-top-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary );
+    border-top: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-top-sm-primary-6 {
+@mixin border-top-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-6 );
+    border-top: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-top-sm-primary-7 {
+@mixin border-top-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-7 );
+    border-top: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-top-sm-primary-8 {
+@mixin border-top-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-8 );
+    border-top: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-top-sm-primary-9 {
+@mixin border-top-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    border-top: 1px solid var( --rds-color-primary-9 );
+    border-top: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-top-sm-grey-0 {
@@ -2539,54 +2539,54 @@
     border-top: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-bottom-sm-primary-1 {
+@mixin border-bottom-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-1 );
+    border-bottom: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-bottom-sm-primary-2 {
+@mixin border-bottom-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-2 );
+    border-bottom: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-bottom-sm-primary-3 {
+@mixin border-bottom-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-3 );
+    border-bottom: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-bottom-sm-primary-4 {
+@mixin border-bottom-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-4 );
+    border-bottom: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-bottom-sm-primary-5 {
+@mixin border-bottom-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-5 );
+    border-bottom: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-bottom-sm-primary {
+@mixin border-bottom-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary );
+    border-bottom: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-bottom-sm-primary-6 {
+@mixin border-bottom-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-6 );
+    border-bottom: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-bottom-sm-primary-7 {
+@mixin border-bottom-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-7 );
+    border-bottom: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-bottom-sm-primary-8 {
+@mixin border-bottom-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-8 );
+    border-bottom: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-bottom-sm-primary-9 {
+@mixin border-bottom-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    border-bottom: 1px solid var( --rds-color-primary-9 );
+    border-bottom: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-bottom-sm-grey-0 {
@@ -2704,54 +2704,54 @@
     border-bottom: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-left-sm-primary-1 {
+@mixin border-left-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-1 );
+    border-left: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-left-sm-primary-2 {
+@mixin border-left-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-2 );
+    border-left: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-left-sm-primary-3 {
+@mixin border-left-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-3 );
+    border-left: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-left-sm-primary-4 {
+@mixin border-left-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-4 );
+    border-left: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-left-sm-primary-5 {
+@mixin border-left-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-5 );
+    border-left: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-left-sm-primary {
+@mixin border-left-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary );
+    border-left: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-left-sm-primary-6 {
+@mixin border-left-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-6 );
+    border-left: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-left-sm-primary-7 {
+@mixin border-left-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-7 );
+    border-left: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-left-sm-primary-8 {
+@mixin border-left-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-8 );
+    border-left: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-left-sm-primary-9 {
+@mixin border-left-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    border-left: 1px solid var( --rds-color-primary-9 );
+    border-left: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-left-sm-grey-0 {
@@ -2869,54 +2869,54 @@
     border-left: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-right-sm-primary-1 {
+@mixin border-right-sm-primary-10 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-1 );
+    border-right: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-right-sm-primary-2 {
+@mixin border-right-sm-primary-20 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-2 );
+    border-right: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-right-sm-primary-3 {
+@mixin border-right-sm-primary-30 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-3 );
+    border-right: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-right-sm-primary-4 {
+@mixin border-right-sm-primary-40 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-4 );
+    border-right: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-right-sm-primary-5 {
+@mixin border-right-sm-primary-50 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-5 );
+    border-right: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-right-sm-primary {
+@mixin border-right-sm-primary-40195 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary );
+    border-right: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-right-sm-primary-6 {
+@mixin border-right-sm-primary-60 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-6 );
+    border-right: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-right-sm-primary-7 {
+@mixin border-right-sm-primary-70 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-7 );
+    border-right: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-right-sm-primary-8 {
+@mixin border-right-sm-primary-80 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-8 );
+    border-right: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-right-sm-primary-9 {
+@mixin border-right-sm-primary-90 {
   @media screen and (min-width: 576px) {
-    border-right: 1px solid var( --rds-color-primary-9 );
+    border-right: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-right-sm-grey-0 {
@@ -3034,63 +3034,63 @@
     border-right: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin background-color-md-primary-1 {
+@mixin background-color-md-primary-10 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-1 );
+    --background-color: var( --rds-color-primary-10 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-2 {
+@mixin background-color-md-primary-20 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-2 );
+    --background-color: var( --rds-color-primary-20 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-3 {
+@mixin background-color-md-primary-30 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-3 );
+    --background-color: var( --rds-color-primary-30 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-4 {
+@mixin background-color-md-primary-40 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-4 );
+    --background-color: var( --rds-color-primary-40 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-5 {
+@mixin background-color-md-primary-50 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-5 );
+    --background-color: var( --rds-color-primary-50 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary {
+@mixin background-color-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary );
+    --background-color: var( --rds-color-primary-40195 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-6 {
+@mixin background-color-md-primary-60 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-6 );
+    --background-color: var( --rds-color-primary-60 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-7 {
+@mixin background-color-md-primary-70 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-7 );
+    --background-color: var( --rds-color-primary-70 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-8 {
+@mixin background-color-md-primary-80 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-8 );
+    --background-color: var( --rds-color-primary-80 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-md-primary-9 {
+@mixin background-color-md-primary-90 {
   @media screen and (min-width: 768px) {
-    --background-color: var( --rds-color-primary-9 );
+    --background-color: var( --rds-color-primary-90 );
     background-color: var( --background-color );
   }
 }
@@ -3232,73 +3232,73 @@
     background-color: var( --background-color );
   }
 }
-@mixin background-color-hover-md-primary-1 {
+@mixin background-color-hover-md-primary-10 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-1 );
+      background-color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin background-color-hover-md-primary-2 {
+@mixin background-color-hover-md-primary-20 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-2 );
+      background-color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin background-color-hover-md-primary-3 {
+@mixin background-color-hover-md-primary-30 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-3 );
+      background-color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin background-color-hover-md-primary-4 {
+@mixin background-color-hover-md-primary-40 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-4 );
+      background-color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin background-color-hover-md-primary-5 {
+@mixin background-color-hover-md-primary-50 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-5 );
+      background-color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin background-color-hover-md-primary {
+@mixin background-color-hover-md-primary-40195 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary );
+      background-color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin background-color-hover-md-primary-6 {
+@mixin background-color-hover-md-primary-60 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-6 );
+      background-color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin background-color-hover-md-primary-7 {
+@mixin background-color-hover-md-primary-70 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-7 );
+      background-color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin background-color-hover-md-primary-8 {
+@mixin background-color-hover-md-primary-80 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-8 );
+      background-color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin background-color-hover-md-primary-9 {
+@mixin background-color-hover-md-primary-90 {
   @media screen and (min-width: 768px) {
     &:hover {
-      background-color: var( --rds-color-primary-9 );
+      background-color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -3463,63 +3463,63 @@
     }
   }
 }
-@mixin color-md-primary-1 {
+@mixin color-md-primary-10 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-1 );
+    --color: var( --rds-color-primary-10 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-2 {
+@mixin color-md-primary-20 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-2 );
+    --color: var( --rds-color-primary-20 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-3 {
+@mixin color-md-primary-30 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-3 );
+    --color: var( --rds-color-primary-30 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-4 {
+@mixin color-md-primary-40 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-4 );
+    --color: var( --rds-color-primary-40 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-5 {
+@mixin color-md-primary-50 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-5 );
+    --color: var( --rds-color-primary-50 );
     color: var( --color );
   }
 }
-@mixin color-md-primary {
+@mixin color-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary );
+    --color: var( --rds-color-primary-40195 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-6 {
+@mixin color-md-primary-60 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-6 );
+    --color: var( --rds-color-primary-60 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-7 {
+@mixin color-md-primary-70 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-7 );
+    --color: var( --rds-color-primary-70 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-8 {
+@mixin color-md-primary-80 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-8 );
+    --color: var( --rds-color-primary-80 );
     color: var( --color );
   }
 }
-@mixin color-md-primary-9 {
+@mixin color-md-primary-90 {
   @media screen and (min-width: 768px) {
-    --color: var( --rds-color-primary-9 );
+    --color: var( --rds-color-primary-90 );
     color: var( --color );
   }
 }
@@ -3661,73 +3661,73 @@
     color: var( --color );
   }
 }
-@mixin color-hover-md-primary-1 {
+@mixin color-hover-md-primary-10 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-1 );
+      color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin color-hover-md-primary-2 {
+@mixin color-hover-md-primary-20 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-2 );
+      color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin color-hover-md-primary-3 {
+@mixin color-hover-md-primary-30 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-3 );
+      color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin color-hover-md-primary-4 {
+@mixin color-hover-md-primary-40 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-4 );
+      color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin color-hover-md-primary-5 {
+@mixin color-hover-md-primary-50 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-5 );
+      color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin color-hover-md-primary {
+@mixin color-hover-md-primary-40195 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary );
+      color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin color-hover-md-primary-6 {
+@mixin color-hover-md-primary-60 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-6 );
+      color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin color-hover-md-primary-7 {
+@mixin color-hover-md-primary-70 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-7 );
+      color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin color-hover-md-primary-8 {
+@mixin color-hover-md-primary-80 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-8 );
+      color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin color-hover-md-primary-9 {
+@mixin color-hover-md-primary-90 {
   @media screen and (min-width: 768px) {
     &:hover {
-      color: var( --rds-color-primary-9 );
+      color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -3892,54 +3892,54 @@
     }
   }
 }
-@mixin border-color-md-primary-1 {
+@mixin border-color-md-primary-10 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-1 );
+    border-color: var( --rds-color-primary-10 );
   }
 }
-@mixin border-color-md-primary-2 {
+@mixin border-color-md-primary-20 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-2 );
+    border-color: var( --rds-color-primary-20 );
   }
 }
-@mixin border-color-md-primary-3 {
+@mixin border-color-md-primary-30 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-3 );
+    border-color: var( --rds-color-primary-30 );
   }
 }
-@mixin border-color-md-primary-4 {
+@mixin border-color-md-primary-40 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-4 );
+    border-color: var( --rds-color-primary-40 );
   }
 }
-@mixin border-color-md-primary-5 {
+@mixin border-color-md-primary-50 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-5 );
+    border-color: var( --rds-color-primary-50 );
   }
 }
-@mixin border-color-md-primary {
+@mixin border-color-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary );
+    border-color: var( --rds-color-primary-40195 );
   }
 }
-@mixin border-color-md-primary-6 {
+@mixin border-color-md-primary-60 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-6 );
+    border-color: var( --rds-color-primary-60 );
   }
 }
-@mixin border-color-md-primary-7 {
+@mixin border-color-md-primary-70 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-7 );
+    border-color: var( --rds-color-primary-70 );
   }
 }
-@mixin border-color-md-primary-8 {
+@mixin border-color-md-primary-80 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-8 );
+    border-color: var( --rds-color-primary-80 );
   }
 }
-@mixin border-color-md-primary-9 {
+@mixin border-color-md-primary-90 {
   @media screen and (min-width: 768px) {
-    border-color: var( --rds-color-primary-9 );
+    border-color: var( --rds-color-primary-90 );
   }
 }
 @mixin border-color-md-grey-0 {
@@ -4057,54 +4057,54 @@
     border-color: var( --rds-color-secondary-9 );
   }
 }
-@mixin border-md-primary-1 {
+@mixin border-md-primary-10 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-1 );
+    border: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-md-primary-2 {
+@mixin border-md-primary-20 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-2 );
+    border: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-md-primary-3 {
+@mixin border-md-primary-30 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-3 );
+    border: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-md-primary-4 {
+@mixin border-md-primary-40 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-4 );
+    border: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-md-primary-5 {
+@mixin border-md-primary-50 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-5 );
+    border: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-md-primary {
+@mixin border-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary );
+    border: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-md-primary-6 {
+@mixin border-md-primary-60 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-6 );
+    border: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-md-primary-7 {
+@mixin border-md-primary-70 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-7 );
+    border: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-md-primary-8 {
+@mixin border-md-primary-80 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-8 );
+    border: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-md-primary-9 {
+@mixin border-md-primary-90 {
   @media screen and (min-width: 768px) {
-    border: 1px solid var( --rds-color-primary-9 );
+    border: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-md-grey-0 {
@@ -4222,54 +4222,54 @@
     border: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-top-md-primary-1 {
+@mixin border-top-md-primary-10 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-1 );
+    border-top: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-top-md-primary-2 {
+@mixin border-top-md-primary-20 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-2 );
+    border-top: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-top-md-primary-3 {
+@mixin border-top-md-primary-30 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-3 );
+    border-top: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-top-md-primary-4 {
+@mixin border-top-md-primary-40 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-4 );
+    border-top: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-top-md-primary-5 {
+@mixin border-top-md-primary-50 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-5 );
+    border-top: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-top-md-primary {
+@mixin border-top-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary );
+    border-top: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-top-md-primary-6 {
+@mixin border-top-md-primary-60 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-6 );
+    border-top: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-top-md-primary-7 {
+@mixin border-top-md-primary-70 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-7 );
+    border-top: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-top-md-primary-8 {
+@mixin border-top-md-primary-80 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-8 );
+    border-top: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-top-md-primary-9 {
+@mixin border-top-md-primary-90 {
   @media screen and (min-width: 768px) {
-    border-top: 1px solid var( --rds-color-primary-9 );
+    border-top: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-top-md-grey-0 {
@@ -4387,54 +4387,54 @@
     border-top: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-bottom-md-primary-1 {
+@mixin border-bottom-md-primary-10 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-1 );
+    border-bottom: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-bottom-md-primary-2 {
+@mixin border-bottom-md-primary-20 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-2 );
+    border-bottom: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-bottom-md-primary-3 {
+@mixin border-bottom-md-primary-30 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-3 );
+    border-bottom: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-bottom-md-primary-4 {
+@mixin border-bottom-md-primary-40 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-4 );
+    border-bottom: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-bottom-md-primary-5 {
+@mixin border-bottom-md-primary-50 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-5 );
+    border-bottom: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-bottom-md-primary {
+@mixin border-bottom-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary );
+    border-bottom: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-bottom-md-primary-6 {
+@mixin border-bottom-md-primary-60 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-6 );
+    border-bottom: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-bottom-md-primary-7 {
+@mixin border-bottom-md-primary-70 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-7 );
+    border-bottom: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-bottom-md-primary-8 {
+@mixin border-bottom-md-primary-80 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-8 );
+    border-bottom: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-bottom-md-primary-9 {
+@mixin border-bottom-md-primary-90 {
   @media screen and (min-width: 768px) {
-    border-bottom: 1px solid var( --rds-color-primary-9 );
+    border-bottom: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-bottom-md-grey-0 {
@@ -4552,54 +4552,54 @@
     border-bottom: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-left-md-primary-1 {
+@mixin border-left-md-primary-10 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-1 );
+    border-left: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-left-md-primary-2 {
+@mixin border-left-md-primary-20 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-2 );
+    border-left: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-left-md-primary-3 {
+@mixin border-left-md-primary-30 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-3 );
+    border-left: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-left-md-primary-4 {
+@mixin border-left-md-primary-40 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-4 );
+    border-left: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-left-md-primary-5 {
+@mixin border-left-md-primary-50 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-5 );
+    border-left: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-left-md-primary {
+@mixin border-left-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary );
+    border-left: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-left-md-primary-6 {
+@mixin border-left-md-primary-60 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-6 );
+    border-left: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-left-md-primary-7 {
+@mixin border-left-md-primary-70 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-7 );
+    border-left: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-left-md-primary-8 {
+@mixin border-left-md-primary-80 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-8 );
+    border-left: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-left-md-primary-9 {
+@mixin border-left-md-primary-90 {
   @media screen and (min-width: 768px) {
-    border-left: 1px solid var( --rds-color-primary-9 );
+    border-left: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-left-md-grey-0 {
@@ -4717,54 +4717,54 @@
     border-left: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-right-md-primary-1 {
+@mixin border-right-md-primary-10 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-1 );
+    border-right: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-right-md-primary-2 {
+@mixin border-right-md-primary-20 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-2 );
+    border-right: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-right-md-primary-3 {
+@mixin border-right-md-primary-30 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-3 );
+    border-right: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-right-md-primary-4 {
+@mixin border-right-md-primary-40 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-4 );
+    border-right: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-right-md-primary-5 {
+@mixin border-right-md-primary-50 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-5 );
+    border-right: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-right-md-primary {
+@mixin border-right-md-primary-40195 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary );
+    border-right: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-right-md-primary-6 {
+@mixin border-right-md-primary-60 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-6 );
+    border-right: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-right-md-primary-7 {
+@mixin border-right-md-primary-70 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-7 );
+    border-right: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-right-md-primary-8 {
+@mixin border-right-md-primary-80 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-8 );
+    border-right: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-right-md-primary-9 {
+@mixin border-right-md-primary-90 {
   @media screen and (min-width: 768px) {
-    border-right: 1px solid var( --rds-color-primary-9 );
+    border-right: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-right-md-grey-0 {
@@ -4882,63 +4882,63 @@
     border-right: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin background-color-lg-primary-1 {
+@mixin background-color-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-1 );
+    --background-color: var( --rds-color-primary-10 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-2 {
+@mixin background-color-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-2 );
+    --background-color: var( --rds-color-primary-20 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-3 {
+@mixin background-color-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-3 );
+    --background-color: var( --rds-color-primary-30 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-4 {
+@mixin background-color-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-4 );
+    --background-color: var( --rds-color-primary-40 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-5 {
+@mixin background-color-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-5 );
+    --background-color: var( --rds-color-primary-50 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary {
+@mixin background-color-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary );
+    --background-color: var( --rds-color-primary-40195 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-6 {
+@mixin background-color-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-6 );
+    --background-color: var( --rds-color-primary-60 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-7 {
+@mixin background-color-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-7 );
+    --background-color: var( --rds-color-primary-70 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-8 {
+@mixin background-color-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-8 );
+    --background-color: var( --rds-color-primary-80 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-lg-primary-9 {
+@mixin background-color-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    --background-color: var( --rds-color-primary-9 );
+    --background-color: var( --rds-color-primary-90 );
     background-color: var( --background-color );
   }
 }
@@ -5080,73 +5080,73 @@
     background-color: var( --background-color );
   }
 }
-@mixin background-color-hover-lg-primary-1 {
+@mixin background-color-hover-lg-primary-10 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-1 );
+      background-color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-2 {
+@mixin background-color-hover-lg-primary-20 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-2 );
+      background-color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-3 {
+@mixin background-color-hover-lg-primary-30 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-3 );
+      background-color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-4 {
+@mixin background-color-hover-lg-primary-40 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-4 );
+      background-color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-5 {
+@mixin background-color-hover-lg-primary-50 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-5 );
+      background-color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin background-color-hover-lg-primary {
+@mixin background-color-hover-lg-primary-40195 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary );
+      background-color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-6 {
+@mixin background-color-hover-lg-primary-60 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-6 );
+      background-color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-7 {
+@mixin background-color-hover-lg-primary-70 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-7 );
+      background-color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-8 {
+@mixin background-color-hover-lg-primary-80 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-8 );
+      background-color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin background-color-hover-lg-primary-9 {
+@mixin background-color-hover-lg-primary-90 {
   @media screen and (min-width: 992px) {
     &:hover {
-      background-color: var( --rds-color-primary-9 );
+      background-color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -5311,63 +5311,63 @@
     }
   }
 }
-@mixin color-lg-primary-1 {
+@mixin color-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-1 );
+    --color: var( --rds-color-primary-10 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-2 {
+@mixin color-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-2 );
+    --color: var( --rds-color-primary-20 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-3 {
+@mixin color-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-3 );
+    --color: var( --rds-color-primary-30 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-4 {
+@mixin color-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-4 );
+    --color: var( --rds-color-primary-40 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-5 {
+@mixin color-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-5 );
+    --color: var( --rds-color-primary-50 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary {
+@mixin color-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary );
+    --color: var( --rds-color-primary-40195 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-6 {
+@mixin color-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-6 );
+    --color: var( --rds-color-primary-60 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-7 {
+@mixin color-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-7 );
+    --color: var( --rds-color-primary-70 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-8 {
+@mixin color-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-8 );
+    --color: var( --rds-color-primary-80 );
     color: var( --color );
   }
 }
-@mixin color-lg-primary-9 {
+@mixin color-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    --color: var( --rds-color-primary-9 );
+    --color: var( --rds-color-primary-90 );
     color: var( --color );
   }
 }
@@ -5509,73 +5509,73 @@
     color: var( --color );
   }
 }
-@mixin color-hover-lg-primary-1 {
+@mixin color-hover-lg-primary-10 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-1 );
+      color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin color-hover-lg-primary-2 {
+@mixin color-hover-lg-primary-20 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-2 );
+      color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin color-hover-lg-primary-3 {
+@mixin color-hover-lg-primary-30 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-3 );
+      color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin color-hover-lg-primary-4 {
+@mixin color-hover-lg-primary-40 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-4 );
+      color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin color-hover-lg-primary-5 {
+@mixin color-hover-lg-primary-50 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-5 );
+      color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin color-hover-lg-primary {
+@mixin color-hover-lg-primary-40195 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary );
+      color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin color-hover-lg-primary-6 {
+@mixin color-hover-lg-primary-60 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-6 );
+      color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin color-hover-lg-primary-7 {
+@mixin color-hover-lg-primary-70 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-7 );
+      color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin color-hover-lg-primary-8 {
+@mixin color-hover-lg-primary-80 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-8 );
+      color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin color-hover-lg-primary-9 {
+@mixin color-hover-lg-primary-90 {
   @media screen and (min-width: 992px) {
     &:hover {
-      color: var( --rds-color-primary-9 );
+      color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -5740,54 +5740,54 @@
     }
   }
 }
-@mixin border-color-lg-primary-1 {
+@mixin border-color-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-1 );
+    border-color: var( --rds-color-primary-10 );
   }
 }
-@mixin border-color-lg-primary-2 {
+@mixin border-color-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-2 );
+    border-color: var( --rds-color-primary-20 );
   }
 }
-@mixin border-color-lg-primary-3 {
+@mixin border-color-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-3 );
+    border-color: var( --rds-color-primary-30 );
   }
 }
-@mixin border-color-lg-primary-4 {
+@mixin border-color-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-4 );
+    border-color: var( --rds-color-primary-40 );
   }
 }
-@mixin border-color-lg-primary-5 {
+@mixin border-color-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-5 );
+    border-color: var( --rds-color-primary-50 );
   }
 }
-@mixin border-color-lg-primary {
+@mixin border-color-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary );
+    border-color: var( --rds-color-primary-40195 );
   }
 }
-@mixin border-color-lg-primary-6 {
+@mixin border-color-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-6 );
+    border-color: var( --rds-color-primary-60 );
   }
 }
-@mixin border-color-lg-primary-7 {
+@mixin border-color-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-7 );
+    border-color: var( --rds-color-primary-70 );
   }
 }
-@mixin border-color-lg-primary-8 {
+@mixin border-color-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-8 );
+    border-color: var( --rds-color-primary-80 );
   }
 }
-@mixin border-color-lg-primary-9 {
+@mixin border-color-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    border-color: var( --rds-color-primary-9 );
+    border-color: var( --rds-color-primary-90 );
   }
 }
 @mixin border-color-lg-grey-0 {
@@ -5905,54 +5905,54 @@
     border-color: var( --rds-color-secondary-9 );
   }
 }
-@mixin border-lg-primary-1 {
+@mixin border-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-1 );
+    border: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-lg-primary-2 {
+@mixin border-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-2 );
+    border: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-lg-primary-3 {
+@mixin border-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-3 );
+    border: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-lg-primary-4 {
+@mixin border-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-4 );
+    border: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-lg-primary-5 {
+@mixin border-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-5 );
+    border: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-lg-primary {
+@mixin border-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary );
+    border: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-lg-primary-6 {
+@mixin border-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-6 );
+    border: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-lg-primary-7 {
+@mixin border-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-7 );
+    border: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-lg-primary-8 {
+@mixin border-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-8 );
+    border: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-lg-primary-9 {
+@mixin border-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    border: 1px solid var( --rds-color-primary-9 );
+    border: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-lg-grey-0 {
@@ -6070,54 +6070,54 @@
     border: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-top-lg-primary-1 {
+@mixin border-top-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-1 );
+    border-top: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-top-lg-primary-2 {
+@mixin border-top-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-2 );
+    border-top: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-top-lg-primary-3 {
+@mixin border-top-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-3 );
+    border-top: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-top-lg-primary-4 {
+@mixin border-top-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-4 );
+    border-top: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-top-lg-primary-5 {
+@mixin border-top-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-5 );
+    border-top: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-top-lg-primary {
+@mixin border-top-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary );
+    border-top: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-top-lg-primary-6 {
+@mixin border-top-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-6 );
+    border-top: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-top-lg-primary-7 {
+@mixin border-top-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-7 );
+    border-top: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-top-lg-primary-8 {
+@mixin border-top-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-8 );
+    border-top: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-top-lg-primary-9 {
+@mixin border-top-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    border-top: 1px solid var( --rds-color-primary-9 );
+    border-top: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-top-lg-grey-0 {
@@ -6235,54 +6235,54 @@
     border-top: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-bottom-lg-primary-1 {
+@mixin border-bottom-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-1 );
+    border-bottom: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-bottom-lg-primary-2 {
+@mixin border-bottom-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-2 );
+    border-bottom: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-bottom-lg-primary-3 {
+@mixin border-bottom-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-3 );
+    border-bottom: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-bottom-lg-primary-4 {
+@mixin border-bottom-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-4 );
+    border-bottom: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-bottom-lg-primary-5 {
+@mixin border-bottom-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-5 );
+    border-bottom: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-bottom-lg-primary {
+@mixin border-bottom-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary );
+    border-bottom: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-bottom-lg-primary-6 {
+@mixin border-bottom-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-6 );
+    border-bottom: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-bottom-lg-primary-7 {
+@mixin border-bottom-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-7 );
+    border-bottom: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-bottom-lg-primary-8 {
+@mixin border-bottom-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-8 );
+    border-bottom: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-bottom-lg-primary-9 {
+@mixin border-bottom-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    border-bottom: 1px solid var( --rds-color-primary-9 );
+    border-bottom: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-bottom-lg-grey-0 {
@@ -6400,54 +6400,54 @@
     border-bottom: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-left-lg-primary-1 {
+@mixin border-left-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-1 );
+    border-left: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-left-lg-primary-2 {
+@mixin border-left-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-2 );
+    border-left: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-left-lg-primary-3 {
+@mixin border-left-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-3 );
+    border-left: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-left-lg-primary-4 {
+@mixin border-left-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-4 );
+    border-left: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-left-lg-primary-5 {
+@mixin border-left-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-5 );
+    border-left: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-left-lg-primary {
+@mixin border-left-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary );
+    border-left: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-left-lg-primary-6 {
+@mixin border-left-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-6 );
+    border-left: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-left-lg-primary-7 {
+@mixin border-left-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-7 );
+    border-left: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-left-lg-primary-8 {
+@mixin border-left-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-8 );
+    border-left: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-left-lg-primary-9 {
+@mixin border-left-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    border-left: 1px solid var( --rds-color-primary-9 );
+    border-left: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-left-lg-grey-0 {
@@ -6565,54 +6565,54 @@
     border-left: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-right-lg-primary-1 {
+@mixin border-right-lg-primary-10 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-1 );
+    border-right: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-right-lg-primary-2 {
+@mixin border-right-lg-primary-20 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-2 );
+    border-right: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-right-lg-primary-3 {
+@mixin border-right-lg-primary-30 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-3 );
+    border-right: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-right-lg-primary-4 {
+@mixin border-right-lg-primary-40 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-4 );
+    border-right: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-right-lg-primary-5 {
+@mixin border-right-lg-primary-50 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-5 );
+    border-right: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-right-lg-primary {
+@mixin border-right-lg-primary-40195 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary );
+    border-right: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-right-lg-primary-6 {
+@mixin border-right-lg-primary-60 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-6 );
+    border-right: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-right-lg-primary-7 {
+@mixin border-right-lg-primary-70 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-7 );
+    border-right: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-right-lg-primary-8 {
+@mixin border-right-lg-primary-80 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-8 );
+    border-right: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-right-lg-primary-9 {
+@mixin border-right-lg-primary-90 {
   @media screen and (min-width: 992px) {
-    border-right: 1px solid var( --rds-color-primary-9 );
+    border-right: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-right-lg-grey-0 {
@@ -6730,63 +6730,63 @@
     border-right: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin background-color-xlg-primary-1 {
+@mixin background-color-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-1 );
+    --background-color: var( --rds-color-primary-10 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-2 {
+@mixin background-color-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-2 );
+    --background-color: var( --rds-color-primary-20 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-3 {
+@mixin background-color-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-3 );
+    --background-color: var( --rds-color-primary-30 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-4 {
+@mixin background-color-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-4 );
+    --background-color: var( --rds-color-primary-40 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-5 {
+@mixin background-color-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-5 );
+    --background-color: var( --rds-color-primary-50 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary {
+@mixin background-color-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary );
+    --background-color: var( --rds-color-primary-40195 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-6 {
+@mixin background-color-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-6 );
+    --background-color: var( --rds-color-primary-60 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-7 {
+@mixin background-color-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-7 );
+    --background-color: var( --rds-color-primary-70 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-8 {
+@mixin background-color-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-8 );
+    --background-color: var( --rds-color-primary-80 );
     background-color: var( --background-color );
   }
 }
-@mixin background-color-xlg-primary-9 {
+@mixin background-color-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    --background-color: var( --rds-color-primary-9 );
+    --background-color: var( --rds-color-primary-90 );
     background-color: var( --background-color );
   }
 }
@@ -6928,73 +6928,73 @@
     background-color: var( --background-color );
   }
 }
-@mixin background-color-hover-xlg-primary-1 {
+@mixin background-color-hover-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-1 );
+      background-color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-2 {
+@mixin background-color-hover-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-2 );
+      background-color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-3 {
+@mixin background-color-hover-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-3 );
+      background-color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-4 {
+@mixin background-color-hover-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-4 );
+      background-color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-5 {
+@mixin background-color-hover-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-5 );
+      background-color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary {
+@mixin background-color-hover-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary );
+      background-color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-6 {
+@mixin background-color-hover-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-6 );
+      background-color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-7 {
+@mixin background-color-hover-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-7 );
+      background-color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-8 {
+@mixin background-color-hover-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-8 );
+      background-color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin background-color-hover-xlg-primary-9 {
+@mixin background-color-hover-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      background-color: var( --rds-color-primary-9 );
+      background-color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -7159,63 +7159,63 @@
     }
   }
 }
-@mixin color-xlg-primary-1 {
+@mixin color-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-1 );
+    --color: var( --rds-color-primary-10 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-2 {
+@mixin color-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-2 );
+    --color: var( --rds-color-primary-20 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-3 {
+@mixin color-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-3 );
+    --color: var( --rds-color-primary-30 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-4 {
+@mixin color-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-4 );
+    --color: var( --rds-color-primary-40 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-5 {
+@mixin color-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-5 );
+    --color: var( --rds-color-primary-50 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary {
+@mixin color-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary );
+    --color: var( --rds-color-primary-40195 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-6 {
+@mixin color-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-6 );
+    --color: var( --rds-color-primary-60 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-7 {
+@mixin color-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-7 );
+    --color: var( --rds-color-primary-70 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-8 {
+@mixin color-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-8 );
+    --color: var( --rds-color-primary-80 );
     color: var( --color );
   }
 }
-@mixin color-xlg-primary-9 {
+@mixin color-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    --color: var( --rds-color-primary-9 );
+    --color: var( --rds-color-primary-90 );
     color: var( --color );
   }
 }
@@ -7357,73 +7357,73 @@
     color: var( --color );
   }
 }
-@mixin color-hover-xlg-primary-1 {
+@mixin color-hover-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-1 );
+      color: var( --rds-color-primary-10 );
     }
   }
 }
-@mixin color-hover-xlg-primary-2 {
+@mixin color-hover-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-2 );
+      color: var( --rds-color-primary-20 );
     }
   }
 }
-@mixin color-hover-xlg-primary-3 {
+@mixin color-hover-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-3 );
+      color: var( --rds-color-primary-30 );
     }
   }
 }
-@mixin color-hover-xlg-primary-4 {
+@mixin color-hover-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-4 );
+      color: var( --rds-color-primary-40 );
     }
   }
 }
-@mixin color-hover-xlg-primary-5 {
+@mixin color-hover-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-5 );
+      color: var( --rds-color-primary-50 );
     }
   }
 }
-@mixin color-hover-xlg-primary {
+@mixin color-hover-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary );
+      color: var( --rds-color-primary-40195 );
     }
   }
 }
-@mixin color-hover-xlg-primary-6 {
+@mixin color-hover-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-6 );
+      color: var( --rds-color-primary-60 );
     }
   }
 }
-@mixin color-hover-xlg-primary-7 {
+@mixin color-hover-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-7 );
+      color: var( --rds-color-primary-70 );
     }
   }
 }
-@mixin color-hover-xlg-primary-8 {
+@mixin color-hover-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-8 );
+      color: var( --rds-color-primary-80 );
     }
   }
 }
-@mixin color-hover-xlg-primary-9 {
+@mixin color-hover-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
     &:hover {
-      color: var( --rds-color-primary-9 );
+      color: var( --rds-color-primary-90 );
     }
   }
 }
@@ -7588,54 +7588,54 @@
     }
   }
 }
-@mixin border-color-xlg-primary-1 {
+@mixin border-color-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-1 );
+    border-color: var( --rds-color-primary-10 );
   }
 }
-@mixin border-color-xlg-primary-2 {
+@mixin border-color-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-2 );
+    border-color: var( --rds-color-primary-20 );
   }
 }
-@mixin border-color-xlg-primary-3 {
+@mixin border-color-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-3 );
+    border-color: var( --rds-color-primary-30 );
   }
 }
-@mixin border-color-xlg-primary-4 {
+@mixin border-color-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-4 );
+    border-color: var( --rds-color-primary-40 );
   }
 }
-@mixin border-color-xlg-primary-5 {
+@mixin border-color-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-5 );
+    border-color: var( --rds-color-primary-50 );
   }
 }
-@mixin border-color-xlg-primary {
+@mixin border-color-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary );
+    border-color: var( --rds-color-primary-40195 );
   }
 }
-@mixin border-color-xlg-primary-6 {
+@mixin border-color-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-6 );
+    border-color: var( --rds-color-primary-60 );
   }
 }
-@mixin border-color-xlg-primary-7 {
+@mixin border-color-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-7 );
+    border-color: var( --rds-color-primary-70 );
   }
 }
-@mixin border-color-xlg-primary-8 {
+@mixin border-color-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-8 );
+    border-color: var( --rds-color-primary-80 );
   }
 }
-@mixin border-color-xlg-primary-9 {
+@mixin border-color-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    border-color: var( --rds-color-primary-9 );
+    border-color: var( --rds-color-primary-90 );
   }
 }
 @mixin border-color-xlg-grey-0 {
@@ -7753,54 +7753,54 @@
     border-color: var( --rds-color-secondary-9 );
   }
 }
-@mixin border-xlg-primary-1 {
+@mixin border-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-1 );
+    border: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-xlg-primary-2 {
+@mixin border-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-2 );
+    border: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-xlg-primary-3 {
+@mixin border-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-3 );
+    border: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-xlg-primary-4 {
+@mixin border-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-4 );
+    border: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-xlg-primary-5 {
+@mixin border-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-5 );
+    border: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-xlg-primary {
+@mixin border-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary );
+    border: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-xlg-primary-6 {
+@mixin border-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-6 );
+    border: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-xlg-primary-7 {
+@mixin border-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-7 );
+    border: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-xlg-primary-8 {
+@mixin border-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-8 );
+    border: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-xlg-primary-9 {
+@mixin border-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    border: 1px solid var( --rds-color-primary-9 );
+    border: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-xlg-grey-0 {
@@ -7918,54 +7918,54 @@
     border: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-top-xlg-primary-1 {
+@mixin border-top-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-1 );
+    border-top: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-top-xlg-primary-2 {
+@mixin border-top-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-2 );
+    border-top: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-top-xlg-primary-3 {
+@mixin border-top-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-3 );
+    border-top: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-top-xlg-primary-4 {
+@mixin border-top-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-4 );
+    border-top: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-top-xlg-primary-5 {
+@mixin border-top-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-5 );
+    border-top: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-top-xlg-primary {
+@mixin border-top-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary );
+    border-top: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-top-xlg-primary-6 {
+@mixin border-top-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-6 );
+    border-top: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-top-xlg-primary-7 {
+@mixin border-top-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-7 );
+    border-top: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-top-xlg-primary-8 {
+@mixin border-top-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-8 );
+    border-top: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-top-xlg-primary-9 {
+@mixin border-top-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    border-top: 1px solid var( --rds-color-primary-9 );
+    border-top: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-top-xlg-grey-0 {
@@ -8083,54 +8083,54 @@
     border-top: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-bottom-xlg-primary-1 {
+@mixin border-bottom-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-1 );
+    border-bottom: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-bottom-xlg-primary-2 {
+@mixin border-bottom-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-2 );
+    border-bottom: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-bottom-xlg-primary-3 {
+@mixin border-bottom-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-3 );
+    border-bottom: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-bottom-xlg-primary-4 {
+@mixin border-bottom-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-4 );
+    border-bottom: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-bottom-xlg-primary-5 {
+@mixin border-bottom-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-5 );
+    border-bottom: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-bottom-xlg-primary {
+@mixin border-bottom-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary );
+    border-bottom: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-bottom-xlg-primary-6 {
+@mixin border-bottom-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-6 );
+    border-bottom: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-bottom-xlg-primary-7 {
+@mixin border-bottom-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-7 );
+    border-bottom: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-bottom-xlg-primary-8 {
+@mixin border-bottom-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-8 );
+    border-bottom: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-bottom-xlg-primary-9 {
+@mixin border-bottom-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    border-bottom: 1px solid var( --rds-color-primary-9 );
+    border-bottom: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-bottom-xlg-grey-0 {
@@ -8248,54 +8248,54 @@
     border-bottom: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-left-xlg-primary-1 {
+@mixin border-left-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-1 );
+    border-left: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-left-xlg-primary-2 {
+@mixin border-left-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-2 );
+    border-left: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-left-xlg-primary-3 {
+@mixin border-left-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-3 );
+    border-left: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-left-xlg-primary-4 {
+@mixin border-left-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-4 );
+    border-left: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-left-xlg-primary-5 {
+@mixin border-left-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-5 );
+    border-left: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-left-xlg-primary {
+@mixin border-left-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary );
+    border-left: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-left-xlg-primary-6 {
+@mixin border-left-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-6 );
+    border-left: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-left-xlg-primary-7 {
+@mixin border-left-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-7 );
+    border-left: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-left-xlg-primary-8 {
+@mixin border-left-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-8 );
+    border-left: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-left-xlg-primary-9 {
+@mixin border-left-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    border-left: 1px solid var( --rds-color-primary-9 );
+    border-left: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-left-xlg-grey-0 {
@@ -8413,54 +8413,54 @@
     border-left: 1px solid var( --rds-color-secondary-9 );
   }
 }
-@mixin border-right-xlg-primary-1 {
+@mixin border-right-xlg-primary-10 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-1 );
+    border-right: 1px solid var( --rds-color-primary-10 );
   }
 }
-@mixin border-right-xlg-primary-2 {
+@mixin border-right-xlg-primary-20 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-2 );
+    border-right: 1px solid var( --rds-color-primary-20 );
   }
 }
-@mixin border-right-xlg-primary-3 {
+@mixin border-right-xlg-primary-30 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-3 );
+    border-right: 1px solid var( --rds-color-primary-30 );
   }
 }
-@mixin border-right-xlg-primary-4 {
+@mixin border-right-xlg-primary-40 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-4 );
+    border-right: 1px solid var( --rds-color-primary-40 );
   }
 }
-@mixin border-right-xlg-primary-5 {
+@mixin border-right-xlg-primary-50 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-5 );
+    border-right: 1px solid var( --rds-color-primary-50 );
   }
 }
-@mixin border-right-xlg-primary {
+@mixin border-right-xlg-primary-40195 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary );
+    border-right: 1px solid var( --rds-color-primary-40195 );
   }
 }
-@mixin border-right-xlg-primary-6 {
+@mixin border-right-xlg-primary-60 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-6 );
+    border-right: 1px solid var( --rds-color-primary-60 );
   }
 }
-@mixin border-right-xlg-primary-7 {
+@mixin border-right-xlg-primary-70 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-7 );
+    border-right: 1px solid var( --rds-color-primary-70 );
   }
 }
-@mixin border-right-xlg-primary-8 {
+@mixin border-right-xlg-primary-80 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-8 );
+    border-right: 1px solid var( --rds-color-primary-80 );
   }
 }
-@mixin border-right-xlg-primary-9 {
+@mixin border-right-xlg-primary-90 {
   @media screen and (min-width: 1200px) {
-    border-right: 1px solid var( --rds-color-primary-9 );
+    border-right: 1px solid var( --rds-color-primary-90 );
   }
 }
 @mixin border-right-xlg-grey-0 {
